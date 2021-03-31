@@ -107,13 +107,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      제가 진행한 개인/팀 단위 토이 프로젝트들입니다.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: '금융정보 한눈에' HEDGER
+        #link: "#hook"
+        tagline: "2020년 7월부터 5개월간 진행한 금융정보 한눈에 App입니다. '예/적금, 국채, 회사채, 배당금, ELS/DLS' 상품을 직관적으로 제공합니다. 백엔드(MySQL, NodeJS)와 인프라(AWS EC2, Nginx)를 맡고 있습니다."
 
       - title: DevStudio
         link: "#"
@@ -166,8 +164,8 @@ skills:
       - name: NodeJS
         level: 60%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C++
+        level: 56%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
