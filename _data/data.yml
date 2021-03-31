@@ -59,47 +59,16 @@ education:
        GPA 3.78/4.5
        Leraning : DB, DB설계, DS, OS, AL, NW, SE
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
     - role: 연구 인턴
       time: 2020.02 - 2021.01
       company: 지능형 소프트웨어공학 연구실, Univ. of Seoul
       details: |
-        Lab Server(NodeJS) & DB 관리(Oracle)
-        Smart Contract, BlockChain 논문 작성, 발표(정보과학회)
-        과학기술정보통신부 주관 X-Twice(우수상)
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lab Server(NodeJS) & DB 관리(Oracle)  
+        Smart Contract, BlockChain 논문 작성, 발표(정보과학회)  
+        과학기술정보통신부 주관 X-Twice(우수상)  
+    
+
 projects:
     title: Projects
     intro: >
@@ -109,13 +78,13 @@ projects:
         #link: "#hook"
         tagline: "2020년 7월부터 5개월간 진행한 금융정보 한눈에 App입니다. '예/적금, 국채, 회사채, 배당금, ELS/DLS' 상품을 직관적으로 제공합니다. 백엔드(MySQL, NodeJS)와 인프라(AWS EC2, Nginx)를 맡고 있습니다."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DID 신원인증 솔루션
+        #link: "#"
+        tagline: "2020년 9월부터 4개월간 진행한 탈중앙화 신원인증 기반 신원인증 솔루션입니다. Solidity, Smart Contract, Etereum, Telegram API를 사용했습니다."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 영화 예매 시스템(진행중)
+        #link: "#"
+        tagline: "DB설계"
 
       - title: Atom
         link: "#"
