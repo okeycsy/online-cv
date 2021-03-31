@@ -78,7 +78,7 @@ projects:
 
       - title: 영화 예매 시스템(진행중)
         #link: "#"
-        tagline: "DB설계"
+        tagline: "데이터베이스 설계과목"
 
 skills:
     title: Skills &amp; Proficiency
